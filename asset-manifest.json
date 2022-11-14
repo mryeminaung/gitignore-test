@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gitignore-test/static/css/main.06961348.css",
-    "main.js": "/gitignore-test/static/js/main.c39fd3ae.js",
+    "main.css": "/gitignore-test/static/css/main.7f078095.css",
+    "main.js": "/gitignore-test/static/js/main.e767cf7c.js",
     "static/js/787.41a206eb.chunk.js": "/gitignore-test/static/js/787.41a206eb.chunk.js",
-    "static/media/logo.svg": "/gitignore-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gitignore-test/index.html",
-    "main.06961348.css.map": "/gitignore-test/static/css/main.06961348.css.map",
-    "main.c39fd3ae.js.map": "/gitignore-test/static/js/main.c39fd3ae.js.map",
+    "static/media/search.svg": "/gitignore-test/static/media/search.7753a662f2671ad786fa71f145e5a3b2.svg",
+    "main.7f078095.css.map": "/gitignore-test/static/css/main.7f078095.css.map",
+    "main.e767cf7c.js.map": "/gitignore-test/static/js/main.e767cf7c.js.map",
     "787.41a206eb.chunk.js.map": "/gitignore-test/static/js/787.41a206eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06961348.css",
-    "static/js/main.c39fd3ae.js"
+    "static/css/main.7f078095.css",
+    "static/js/main.e767cf7c.js"
   ]
 }
