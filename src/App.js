@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with tailwindcss
+          Learn React with tailwindcss and deploy React App on github using npm package called gh-pages
         </a>
       </header>
     </div>
