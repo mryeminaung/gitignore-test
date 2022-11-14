@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitignore-test/static/css/main.06961348.css",
+    "main.js": "/gitignore-test/static/js/main.b61ebf76.js",
+    "static/js/787.41a206eb.chunk.js": "/gitignore-test/static/js/787.41a206eb.chunk.js",
+    "static/media/logo.svg": "/gitignore-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitignore-test/index.html",
+    "main.06961348.css.map": "/gitignore-test/static/css/main.06961348.css.map",
+    "main.b61ebf76.js.map": "/gitignore-test/static/js/main.b61ebf76.js.map",
+    "787.41a206eb.chunk.js.map": "/gitignore-test/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06961348.css",
+    "static/js/main.b61ebf76.js"
+  ]
+}
